@@ -43,5 +43,4 @@ public class OrderPageFirstForm {
         setMetroStationField(metroStantion);
         setPhoneNumberField(phoneNumber);
     }
-
 }
